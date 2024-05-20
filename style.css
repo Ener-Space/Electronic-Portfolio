@@ -1,3 +1,6 @@
-body {
-  color: blue;
+.header-navbar{
+   position: fixed;
+   top: 0;
+   z-index: 1030;
+  /* To keep the Navbar on Top */
 }
