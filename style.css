@@ -4,3 +4,12 @@
    z-index: 1030;
   /* To keep the Navbar on Top */
 }
+.picture {
+   margin: 100px;
+}
+#about-me {
+   margin-top: 5em;
+}
+#about {
+   margin-top: 3em;
+}
